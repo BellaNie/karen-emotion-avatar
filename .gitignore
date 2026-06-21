@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.DS_Store
+**/.DS_Store
+npm-debug.log*
+
+# Internal product materials (not part of the public demo)
+outputs/
+test.md
