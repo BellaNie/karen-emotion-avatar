@@ -1,5 +1,7 @@
 # Karen Emotion Avatar
 
+<img width="1086" height="1448" alt="海报" src="https://github.com/user-attachments/assets/c78f12d3-6b87-4685-a34f-1dbc165f60cf" />
+
 Karen 是一个可在本地运行的情绪数字人体验项目。浏览器会调用摄像头，在设备本地完成人脸检测与表情识别，并播放相应的数字人动画。
 
 > 隐私说明：核心情绪识别演示在浏览器本地运行，不上传摄像头画面，不保存人脸图像，也不需要注册账号。
