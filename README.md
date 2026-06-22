@@ -1,13 +1,27 @@
-# Karen Emotion Avatar
+# 戴耳环的珍珠豆包
 
-Karen 是一个可在本地运行的情绪数字人体验项目。浏览器会调用摄像头，在设备本地完成人脸检测与表情识别，并播放相应的数字人动画。
+### 一个帮你快速回能的 AI 情绪补给站
 
-> 隐私说明：核心情绪识别演示在浏览器本地运行，不上传摄像头画面，不保存人脸图像，也不需要注册账号。
+![戴耳环的珍珠豆包产品海报](./docs/assets/karen-emotion-station-poster.png)
+
+一个住在屏幕里的 AI 情绪补给站。她会根据你的实时状态，给出轻量陪伴、情绪缓冲与能量恢复。只要靠近，她就会用适合此刻的方式，帮你慢慢回到舒服一点的状态。
+
+> 由情绪识别 AI 驱动 · 在低电量时，给你刚刚好的回应
+
+## 产品能力
+
+- **实时情绪识别**：感知面部表情变化，判断此刻的情绪状态。
+- **轻量陪伴回应**：用温和、不打扰的方式给出恰到好处的反馈。
+- **情绪缓冲与回能**：通过数字人动画和回应，帮助用户从紧绷状态慢慢松下来。
+- **隐私安全守护**：核心识别在浏览器本地完成，不上传摄像头画面，不保存人脸图像，也不需要注册账号。
+
+本项目是轻量情绪互动体验，不提供医疗诊断，也不能替代专业心理咨询。
 
 ## 在线体验
 
-- 妙搭正式页面：<https://app-cioqmlo2afpd.appmiaoda.com>
-- GitHub Pages 镜像：<https://bellanie.github.io/karen-emotion-avatar/>
+- **立即体验（妙搭）**：<https://app-cioqmlo2afpd.appmiaoda.com>
+- **GitHub Pages 镜像**：<https://bellanie.github.io/karen-emotion-avatar/>
+- **下载完整源码 ZIP**：<https://github.com/BellaNie/karen-emotion-avatar/archive/refs/heads/main.zip>
 
 新版妙搭 React 源码位于 [`miaoda-web/`](./miaoda-web/)。
 
